@@ -1,0 +1,19 @@
+{
+    "song1": {
+        "data": "00780004080200",
+        "mimeType": "application/mkcd-song",
+        "displayName": "mySong",
+        "namespace": "mySongs."
+    },
+    "song2": {
+        "data": "00be000408040105001c000f0a006400f4010a0000040000000000000000000000000000000002480000000400011d10001400012920002400012928002c00012530003400012940004400012548004c00012250005400012560006400012568006c00012270007400011d78007c000122",
+        "mimeType": "application/mkcd-song",
+        "displayName": "the next episode",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
